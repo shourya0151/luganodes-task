@@ -1,0 +1,1 @@
+2024-09-09T16:30:43.400Z error: Error in trackDeposits function: TypeError: Cannot read properties of undefined (reading 'subscribe')
